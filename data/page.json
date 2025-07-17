@@ -1,0 +1,62 @@
+{
+  "mainTitle": "Activity",
+  "homeIcons": [
+    {
+      "logo": "assets/images/order.png",
+      "name": "Ordered"
+    },
+    {
+      "logo": "assets/shipped.png",
+      "name": "Shipped"
+    },
+    {
+      "logo": "assets/intransit.png",
+      "name": "Arriving"
+    },
+    {
+      "logo": "assets/warehouse.png",
+      "name": "Delivered"
+    }
+  ],
+  "button": {
+    "text": "View My Orders"
+  },
+  "sections": [
+    {
+      "title": "Important",
+      "sideTitle": "Clear",
+      "cards": [
+        {
+          "title": "2 unread messages from Xiaomi",
+          "subtitle": "13 Dec 2018, 09:38",
+          "trailing": "",
+          "leading": "assets/images/logo.png"
+        },
+        {
+          "title": "Your voucher is about to expire.",
+          "subtitle": "Don’t miss out! Use your voucher now.",
+          "trailing": "",
+          "leading": "assets/images/logo.png"
+        }
+      ]
+    },
+    {
+      "title": "Order Updates",
+      "sideTitle": "",
+      "cards": [
+        {
+          "title": "Parcel shipped from China ",
+          "subtitle": "12 Dec 2018, 09:38",
+          "trailing": "assets/images/product1.png",
+          "leading": "assets/images/shipped.png"
+        },
+        {
+          "title": "Order delivered to 22 Baker St…",
+          "subtitle": "10 Dec 2018, 08:36",
+          "trailing": "assets/images/product2.png",
+          "leading": "assets/images/warehouse.png"
+        }
+      ]
+    }
+  ]
+}
